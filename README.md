@@ -1,4 +1,4 @@
-## Hi there 👋
+ola meu nome e Ana tenho 18anos ,estudo no theodoro correa cintra mais conhecido como tcc 
 
 <!--
 **aninha-costa/aninha-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
